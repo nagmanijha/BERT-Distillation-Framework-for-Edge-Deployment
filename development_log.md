@@ -25,3 +25,4 @@
 - Progress update 23
 - Progress update 24
 - Progress update 25
+- Progress update 26
